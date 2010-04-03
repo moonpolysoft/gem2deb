@@ -23,7 +23,7 @@ dependencies.
 Dependencies
 -----
 
-Requires the following debian packages: cdbs ruby-pkg-tools devscripts
+Requires the following debian packages: cdbs ruby-pkg-tools devscripts ruby1.8-dev
 
 Environment
 -----
